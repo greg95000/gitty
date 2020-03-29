@@ -1,5 +1,5 @@
 # gitty
-Simplifier for github forked repo and local repo
+Simplifier for github forked repo and local repo when you're using Fish shell
 
 This function can be improved
 
